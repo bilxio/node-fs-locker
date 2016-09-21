@@ -1,0 +1,18 @@
+{
+  "name": "fs-locker",
+  "version": "0.0.1",
+  "description": "Simple locker according on File System.",
+  "main": "index.js",
+  "repostory": "https://github.com/bilxio/node-fs-locker.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lock", "locker"
+  ],
+  "author": "Bill Xiong",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.16.1"
+  }
+}
